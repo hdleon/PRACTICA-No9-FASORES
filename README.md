@@ -80,8 +80,15 @@ La fórmula de conversión de polar a rectangular es:
 
 ![image](https://user-images.githubusercontent.com/116777118/222458894-bd089770-86ce-46d5-8b0a-69c0cf5d8888.png)
 
+**9.6. VIDEO**
 
 
+
+**9.7. CONCLUSIONES**
+
+-Las operaciones aritmeticas con numeros complejos son muy importantes para el analisis y resolucion de ejercicios en fasores y circuitos de CA
+
+-Se pudo ver que los numeros complejos ayudan a dar una descripcion mas adecuada de las senales periodicas variables, ademas son usados ​​en la teoria del control,en donde los sistemas son transformados del dominio del tiempo al dominio de la frecuencia usando transformaciones de Laplace. Los polos y los ceros del sistema son analizados en el plano complejo.
 
 
 
