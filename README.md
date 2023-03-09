@@ -64,33 +64,44 @@ La fórmula de conversión de polar a rectangular es:
 
 **C∠θ=A+jB**
 
-![image](https://user-images.githubusercontent.com/116777118/222457111-028f462b-1eaf-4d1a-91bd-7e8443b9cf03.png)
+![image](https://user-images.githubusercontent.com/116777118/223888325-845ecd4a-3578-4c76-8968-631deb37931e.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222457380-abd8b0ff-d24d-4477-be0f-79ea6be913c5.png)
+![image](https://user-images.githubusercontent.com/116777118/223888467-f7100fd9-9a7f-494c-93f1-29e8ed637977.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222457593-c0ab1b77-a874-42f7-9841-2bb5429661aa.png)
-
-![image](https://user-images.githubusercontent.com/116777118/222457693-e5d4b3fb-e222-40fa-a3c6-230f4153f897.png)
+![image](https://user-images.githubusercontent.com/116777118/223889064-1bacf6c2-34ad-4892-8f02-1fbba76ad5af.png)
 
 * 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
 
-![image](https://user-images.githubusercontent.com/116777118/222458656-3e0d9a16-c5e7-46ed-9bc8-8b05bb9da017.png)
+![image](https://user-images.githubusercontent.com/116777118/223892588-6d866ab5-cb98-4a72-94aa-d929b88663fa.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222458761-fc416eb4-4d9c-4380-b553-a2935070f748.png)
+![image](https://user-images.githubusercontent.com/116777118/223892648-e1df441e-879f-464a-add2-e802ee6a7084.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222458894-bd089770-86ce-46d5-8b0a-69c0cf5d8888.png)
+![image](https://user-images.githubusercontent.com/116777118/223892688-2780131f-b634-450a-83ac-b7ee13fdde30.png)
+
+* 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.*
+
+a)
+
+![image](https://user-images.githubusercontent.com/116777118/223892750-d23bd227-a382-4aac-9e33-0c5006bfcee7.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116777118/223892795-7d791403-2e1d-4b5a-97ec-34f31d470d6e.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/116777118/223892845-ef16178b-a47d-45e8-9a47-8f9abcf411f0.png)
 
 **9.6. VIDEO**
 
-
+https://youtu.be/86DAB1hOhBA
 
 **9.7. CONCLUSIONES**
 
 -Las operaciones aritmeticas con numeros complejos son muy importantes para el analisis y resolucion de ejercicios en fasores y circuitos de CA
 
--Se pudo ver que los numeros complejos ayudan a dar una descripcion mas adecuada de las senales periodicas variables, ademas son usados ​​en la teoria del control,en donde los sistemas son transformados del dominio del tiempo al dominio de la frecuencia usando transformaciones de Laplace. Los polos y los ceros del sistema son analizados en el plano complejo.
-
-
+-Se pudo ver que los numeros complejos ayudan a dar una descripcion mas adecuada de las senales periodicas variables, ademas son usados en la teoria del control,en donde los sistemas son transformados del dominio del tiempo al dominio de la frecuencia usando transformaciones de Laplace. Los polos y los ceros del sistema son analizados en el plano complejo.
 
 
 
