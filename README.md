@@ -68,6 +68,8 @@ La fórmula de conversión de polar a rectangular es:
 
 ![image](https://user-images.githubusercontent.com/116777118/223888467-f7100fd9-9a7f-494c-93f1-29e8ed637977.png)
 
+![image](https://user-images.githubusercontent.com/116777118/223893025-b1876f25-b5c7-49bd-ae49-e7a16828fb84.png)
+
 ![image](https://user-images.githubusercontent.com/116777118/223889064-1bacf6c2-34ad-4892-8f02-1fbba76ad5af.png)
 
 * 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
