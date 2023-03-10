@@ -34,29 +34,29 @@ Henrry Leon
 
 *9.5.1. Sin emplear calculadora. Transforme a su forma polar:*
 
-- a) 2+3j=
+![image](https://user-images.githubusercontent.com/116777118/224378110-8b1fc9a9-4cc7-4e66-8cb6-3af954491ded.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222455391-47c13034-3389-429a-8f16-4afaf2e7c0eb.png)
+![image](https://user-images.githubusercontent.com/116777118/224378163-dcc93fa8-fd93-4a67-ad4b-4476354a0b51.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222455518-25182512-52b2-48fe-a372-91fffc9bd741.png)
+![image](https://user-images.githubusercontent.com/116777118/224378321-98b23f30-1301-49ce-94ad-948f177d6be9.png)
 
-- b) -8+6.2j=
+![image](https://user-images.githubusercontent.com/116777118/224378375-d450274e-f8b5-4558-bbf1-97761d57595e.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222455671-421c9a84-0e5f-470e-83f3-e21ab1bd9d8e.png)
+![image](https://user-images.githubusercontent.com/116777118/224378397-2644e5e3-e50c-41a6-ac3f-3c5334886b7a.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222455864-dc838405-dee8-4ce5-a4ad-9acda2c8968c.png)
+![image](https://user-images.githubusercontent.com/116777118/224378413-c0f28150-e9d7-48b2-9d92-ae66f585fdef.png)
 
-- c) 4.3-2.8j=
+![image](https://user-images.githubusercontent.com/116777118/224378465-88698e92-d0e6-4d45-9050-dfcb234cdfdc.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222456306-2600a394-9389-44bf-897c-395ce8cc8eb6.png)
+![image](https://user-images.githubusercontent.com/116777118/224378498-48a7e2ed-8ee8-4e34-9670-a9054369a924.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222456395-1cc4ffe1-13cb-497b-a6da-42fe5e4f2ce0.png)
+![image](https://user-images.githubusercontent.com/116777118/224378524-12de15c8-a083-4ba1-bd17-d812b37adcd3.png)
 
-- d) -6-3.2j=
+![image](https://user-images.githubusercontent.com/116777118/224378567-43606e64-01d3-42f2-956e-4b45418c7d7b.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222456528-492255fb-98ec-4f1e-9be3-8ced5ce98b65.png)
+![image](https://user-images.githubusercontent.com/116777118/224378581-2dc5c222-e82c-4225-be63-7887b04c95ae.png)
 
-![image](https://user-images.githubusercontent.com/116777118/222456563-f97df243-624c-4279-adb6-13448108d0cb.png)
+![image](https://user-images.githubusercontent.com/116777118/224378618-f8e5e558-b707-4d3d-b903-449f3d18ef93.png)
 
 * 9.5.2 Sin emplear calculadora. Transforme a su forma rectangular: *
 
