@@ -74,7 +74,7 @@ La fórmula de conversión de polar a rectangular es:
 
 * 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
 
-![image](https://user-images.githubusercontent.com/116777118/223892588-6d866ab5-cb98-4a72-94aa-d929b88663fa.png)
+![image](https://user-images.githubusercontent.com/116777118/224204369-6c92ff7b-a52c-4be3-8788-ec31d8221e2e.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/223892648-e1df441e-879f-464a-add2-e802ee6a7084.png)
 
